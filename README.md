@@ -8,6 +8,6 @@ This code is used to create path animation and created beautiful UI. Please clon
 
 ### Video
 
-![Path Animation](../assets/pathanimation.gif)
+![Path Animation](../main/app/src/main/assets/pathanimation.gif)
 
 
